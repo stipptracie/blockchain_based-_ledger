@@ -5,12 +5,12 @@ The task is to build a blockchain-based ledger system, complete with a user-frie
 
 ### The steps for this Challenge are divided into the following sections:
 
-*Create a Record Data Class
+- Create a Record Data Class
 
-*Modify the Existing Block Data Class to Store Record Data
+- Modify the Existing Block Data Class to Store Record Data
 
-*Add Relevant User Inputs to the Streamlit Interface
+- Add Relevant User Inputs to the Streamlit Interface
 
-*Test the PyChain Ledger by Storing Records
+- Test the PyChain Ledger by Storing Records
 
-[Streamlit_blockchain]("https://github.com/stipptracie/blockchain_based-_ledger/blob/main/Streamlit_blockchain.png")
+![Streamlit_blockchain](.\Streamlit_blockchain.png)
