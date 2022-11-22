@@ -13,4 +13,4 @@ The task is to build a blockchain-based ledger system, complete with a user-frie
 
 - Test the PyChain Ledger by Storing Records
 
-![Streamlit_blockchain](.\Streamlit_blockchain.png)
+![Streamlit_blockchain](Streamlit_blockchain.png)
